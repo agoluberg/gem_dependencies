@@ -40,6 +40,8 @@
 
 ### It's not a bug, it's a feature or rubygems
 
+---
+
 ### `gem install arbitrary code execution via extconf.rb`
 
 ---
