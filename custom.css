@@ -41,6 +41,7 @@
 .reveal .slides section>* {
   margin-left: 15px;
   margin-right: 5px;
+  margin-top: 80px;
 }
 
 #title-footer #notification {
