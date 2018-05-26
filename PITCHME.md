@@ -74,6 +74,12 @@ https://www.commitstrip.com/2014/05/07/the-truth-behind-open-source-apps/
 
 ---
 
+### What can we do for the maintainers?
+
+### Send them user data
+
+---
+
 ### Maintainers don't know
 
 * Ruby version
@@ -81,12 +87,6 @@ https://www.commitstrip.com/2014/05/07/the-truth-behind-open-source-apps/
 * Which other gems are (often) used together
 * When and which errors happen and why
 * Which parts of their code are used most
-
----
-
-### What can we do for the maintainers?
-
-### Send them user data
 
 ---
 
