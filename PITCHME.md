@@ -38,7 +38,7 @@
 
 ### Every gem is a potential attack vector
 
-### It's not a bug, it's a feature or rubygems
+### It's not a bug, it's a feature of rubygems
 
 ---
 
